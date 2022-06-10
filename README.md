@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines='asalamulaikum+wr.wb+ini+adalah+script.;'alquran+untuk+blajar." alt="AL-Quran">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines='aasalamulaikum+wr.wb+ini+sc.;alquran+untuk+blajar." alt="AL-Quran">
 </p>
 <img src="https://telegra.ph/file/4d25b7175f881efa97d81.png" alt="AL-QURAN" width="360" />
 
